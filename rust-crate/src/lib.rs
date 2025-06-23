@@ -1,4 +1,4 @@
-//! # {{project-name}}
+//! # {{app_name}}
 //! 
 //! {{description}}
 

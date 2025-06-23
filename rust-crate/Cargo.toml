@@ -14,3 +14,12 @@ contract HelloWorldScript is Script {
         vm.stopBroadcast();
     }
 }
+
+[package]
+name = "{{crate_name}}"
+version = "0.1.0"
+edition = "2021"
+authors = ["{{author_name}} <{{author_email}}>"]
+description = "{{description}}"
+
+[dependencies]
