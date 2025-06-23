@@ -1,0 +1,22 @@
+[template]
+cargo_generate_version = ">=0.10.0"
+
+[placeholders.project-name]
+type = "string"
+prompt = "What is the name of your project?"
+default = "my-hello-project"
+
+[placeholders.author-name]
+type = "string"
+prompt = "What is your name?"
+default = "Your Name"
+
+[placeholders.author-email]
+type = "string"
+prompt = "What is your email?"
+default = "your.email@example.com"
+
+[placeholders.description]
+type = "string"
+prompt = "Describe your project"
+default = "A Foundry + Rust Hello World project" 
