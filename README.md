@@ -28,4 +28,4 @@ cargo build
 
 This template gives you a complete setup with both Solidity smart contracts and a Rust library that mirrors the same functionality.
 
-Created by: {{author_name}} 
+Generated with hello-foundry-template 

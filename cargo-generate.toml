@@ -6,16 +6,6 @@ type = "string"
 prompt = "What is the name of your application?"
 default = "my-hello-app"
 
-[placeholders.author_name]
-type = "string"
-prompt = "What is your name?"
-default = "Your Name"
-
-[placeholders.author_email]
-type = "string"
-prompt = "What is your email?"
-default = "your.email@example.com"
-
 [placeholders.description]
 type = "string"
 prompt = "Describe your project"

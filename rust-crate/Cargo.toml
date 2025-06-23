@@ -19,7 +19,8 @@ contract HelloWorldScript is Script {
 name = "{{crate_name}}"
 version = "0.1.0"
 edition = "2021"
-authors = ["{{author_name}} <{{author_email}}>"]
+authors = ["Generated Project"]
 description = "{{description}}"
+license = "MIT"
 
 [dependencies]
